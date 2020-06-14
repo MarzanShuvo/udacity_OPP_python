@@ -33,7 +33,7 @@ pip install --index-url https://test.pypi.org/simple/ mar_distributions
 
 >gauss.plot_histogram()
 
->gauss.pdf()
+>gauss.pdf(point)
 
 >gauss.plot_histogram_pdf(number_of_data_points)
 ```
