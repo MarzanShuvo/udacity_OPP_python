@@ -1,0 +1,10 @@
+setup.py
+mar_distributions/Binomialdistribution.py
+mar_distributions/Gaussiandistribution.py
+mar_distributions/Generaldistribution.py
+mar_distributions/__init__.py
+mar_distributions.egg-info/PKG-INFO
+mar_distributions.egg-info/SOURCES.txt
+mar_distributions.egg-info/dependency_links.txt
+mar_distributions.egg-info/not-zip-safe
+mar_distributions.egg-info/top_level.txt
